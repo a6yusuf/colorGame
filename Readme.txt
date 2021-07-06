@@ -1,1 +1,1 @@
-This is just a color game.
+This is just a readme file. It's about a color game I made in a project.
